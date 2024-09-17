@@ -1,4 +1,23 @@
-
+.jumbotron {
+    background-color: #f8f9fa;
+    padding: 3rem 1rem;
+    margin-bottom: 2rem;
+  }
+  
+  .card-img-top {
+    object-fit: cover;
+  }
+  
+  .container {
+    max-width: 1200px;
+  }
+  
+  .footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
+  
 /* 
 
     You can write your own styles here...
